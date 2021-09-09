@@ -1,7 +1,6 @@
 from Types import DataType
 from DataReader import DataReader
 
-
 class TextDataReader(DataReader):
 
     def __init__(self) -> None:
